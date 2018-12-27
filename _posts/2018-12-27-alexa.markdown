@@ -1,0 +1,12 @@
+---
+layout: default
+img: alexa.png
+category: Future
+title: Try it!
+description: |
+---
+Do you have an Amazon Echo? Try this:
+
+**_Alexa, ask the future of America to be great again!_**
+
+<small>Like it? Please [rate us](https://www.amazon.com/Daniel-Doubrovkine-The-Future-Amerika/dp/B01N1RYE51) on Amazon.</small>
