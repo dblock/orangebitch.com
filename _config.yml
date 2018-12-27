@@ -1,0 +1,37 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: http://orangebitch.com
+title: Orange Bitch Dot Com
+email: dblock+orangebitch@dblock.org
+author: Daniel D.
+description: Alexa, ask the Future of America to be great again!
+copyright: 'Copyright &copy; 2018 <a href="https://twitter.com/dblockdotorg">dB.</a>. All Rights Reserved.'
+credits: 'Trump <a href="https://pixabay.com/en/donald-trump-politician-america-1708433">image by Sambeet</a>. Landing Page is an open-source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: twitter
+    type: twitter
+    url: https://twitter.com/dblockdotorg
+  - title: github
+    type: github
+    url: https://github.com/dblock/amerika
+  - title: amazon
+    type: facebook
+    url: https://www.amazon.com/Daniel-Doubrovkine-The-Future-Amerika/dp/B01N1RYE51
+  - title: wtfpl
+    type: file-text
+    url: http://www.wtfpl.net
